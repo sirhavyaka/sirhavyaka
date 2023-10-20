@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sirhavyaka
 - 👀 I’m a beginner to my coding journey and wanna learn new things...
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C
 - 📫 You can find me on my discord id: sir_havyaka
 
 <!---
